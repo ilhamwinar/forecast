@@ -1,0 +1,7 @@
+{"host_server":"172.16.12.28",
+"port_server":"90",
+"user_db":'aicctv',
+"pass_db":'jmt02022!',
+"name_db":'db_aicctv',
+"host_db":'172.16.4.34',
+"model":'xgb_japek_hour.dat'}
